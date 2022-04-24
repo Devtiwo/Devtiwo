@@ -27,7 +27,7 @@
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   
   ## Github Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devtiwo&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devtiwo&theme=dark)](https://git.io/streak-stats)
 <!--
 **Devtiwo/Devtiwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
